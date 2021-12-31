@@ -1,0 +1,8 @@
+1  (1) ∀x(Fx v Gx -> Hx)           S
+2  (2)Ex ~Hx)                             S
+3  (3)~Ha                                    S
+1  (4)Fa v Ga -> Ha                   E∀1  
+1,3(5)~(Fa v Ga)                          MTT 3,4 
+1,3(6)~Fa                                   E∧ 5   
+1,2(7)Ex(Hx)                            IE 6 
+1,3(8)Ex(Hx)                            IE 1,3,6 
